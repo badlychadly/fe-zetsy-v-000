@@ -40,6 +40,9 @@ p {
 	color: #555;
 }
 /* Write all remaining styles here */
+header a:hover {
+	color: rgb(111, 127, 122);
+}
 
 h1 a {
 	color: rgb(152, 173, 166);
@@ -48,5 +51,5 @@ h1 a {
 
 #featured img {
 	border: 5px rgb(152, 173, 166) solid;
-	margin: 0 auto;
+	
 }
