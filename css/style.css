@@ -41,8 +41,24 @@ p {
 }
 /* Write all remaining styles here */
 
-
 h1 a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
 }
+
+#featured img {
+	border: 5px rgb(152, 173, 166) solid; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
