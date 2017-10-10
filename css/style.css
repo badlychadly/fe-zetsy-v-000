@@ -46,11 +46,12 @@ p {
 
 header a:hover {
 	color: rgb(116, 139, 132);
-	transition: all 1s ease-out;
+	/*transition: all 1s ease-out;*/
 }
 
 h1 a {
 	color: rgb(152, 173, 166);
+	transition: all 1s ease;
 	text-decoration: none;
 }
 
