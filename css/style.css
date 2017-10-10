@@ -51,6 +51,7 @@ header a:hover {
 h1 a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
+	transition-property: all;
 }
 
 #featured img {
