@@ -75,6 +75,7 @@ h1 a {
 }
 #press img:hover {
 	border: 5px rgb(111, 127, 122) solid;
+	transition: all 1s ease-out;
 }
 footer {
 	text-align: right;
