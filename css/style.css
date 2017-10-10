@@ -56,7 +56,11 @@ h1 a {
 #featured a {
 	color: #1783bb;
 	text-decoration: none;
+} 
+#featured a:hover {
+	text-decoration: underline;
 }
+
 #press {
 	margin-bottom: 20px;
 }
