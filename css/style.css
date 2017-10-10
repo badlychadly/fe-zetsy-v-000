@@ -46,14 +46,12 @@ p {
 
 header a:hover {
 	color: rgb(111, 127, 122);
+	transition: color 1s ease-out;
 }
 
 h1 a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
-}
-h1 a:hover {
-	transition: blue 1s ease-out;
 }
 
 #featured img {
