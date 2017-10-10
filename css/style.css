@@ -51,7 +51,9 @@ header a:hover {
 h1 a {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
-	transition-property: all;
+}
+h1 a:hover {
+	transition: blue 1s ease-out;
 }
 
 #featured img {
