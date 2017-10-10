@@ -46,7 +46,7 @@ p {
 
 header a:hover {
 	color: rgb(111, 127, 122);
-	transition: color 1s ease-out;
+	transition: green 1s ease-out;
 }
 
 h1 a {
